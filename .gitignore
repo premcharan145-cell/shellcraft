@@ -1,0 +1,15 @@
+# Build output
+shellcraft
+
+# Temporary and test output
+output.txt
+test.txt
+
+# Backup files
+*.backup
+*.bak
+
+# Editor and OS files
+*.swp
+*~
+.DS_Store
